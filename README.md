@@ -16,15 +16,20 @@ This project is part of my Machine Learning learning journey, where I am develop
 - Explore relationships between different features.
 - Generate meaningful insights through data analysis and visualization.
 
-## Dataset
+## 📊 Dataset Information
 
-- **Dataset:** Heart Disease Dataset
-- **File:** `heart_disease.csv`
-- **Location:** `data/heart_disease.csv`
+This project uses the **Heart Disease Dataset**, which contains medical attributes related to cardiovascular health. The dataset is used to explore health-related patterns, perform data analysis, and identify potential relationships between different medical features and heart disease.
 
-The dataset contains health-related attributes that can be explored to understand patterns associated with heart disease.
+### 🔗 Dataset Source
 
-*Note: Refer to the original dataset source for detailed feature descriptions and licensing information.*
+The dataset is available on Kaggle:
+
+[Heart Disease Dataset – Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.csv)
+
+- **Platform:** Kaggle
+- **Dataset Name:** Heart Disease Dataset
+- **File Name:** `heart.csv`
+- **Local File Path:** `data/heart_disease.csv`
 
 ## Tools and Technologies
 
